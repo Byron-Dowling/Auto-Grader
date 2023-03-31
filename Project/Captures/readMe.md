@@ -1,0 +1,1 @@
+The program allows for pictures to be taken using the spacebar. The exact process to conduct the grading is still under discussion with my professor for whom this project is for. However we both agreed that the ability to take a snapshot is a good feature to keep in case we need to go back and reference them later.
