@@ -11,4 +11,4 @@ The purpose of this project is to create an OpenCV application that will run han
 ## Status
 - In-Progress 3-30-2023
 - PyTorch model is trained
-- Working on the image masking to focus on the correct areas
+- Working on the image masking to focus on the correct areas to run analysis on
